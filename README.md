@@ -1,5 +1,5 @@
 # K-Vib
-Code for paper - [Exploring Federated Optimization by Reducing Variance of Adaptive Unbiased Client Sampling](https://arxiv.org/abs/2310.02698)
+Code for paper - [Enhanced Federated Optimization: Adaptive Unbiased Client Sampling with Reduced Variance](https://openreview.net/forum?id=Gb4HBGG9re)
 
 
 ## Dataset
@@ -21,10 +21,14 @@ femnist task
 ## Citation
 
 ```
-@article{zeng2023exploring,
-  title={Exploring Federated Optimization by Reducing Variance of Adaptive Unbiased Client Sampling},
-  author={Zeng, Dun and Xu, Zenglin and Pan, Yu and Wang, Qifan and Tang, Xiaoying},
-  journal={arXiv preprint arXiv:2310.02698},
-  year={2023}
+@article{
+zeng2025enhanced,
+title={Enhanced Federated Optimization: Adaptive Unbiased Client Sampling with Reduced Variance},
+author={Dun Zeng and Zenglin Xu and Yu Pan and Xu Luo and Qifan Wang and Xiaoying Tang},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=Gb4HBGG9re},
+note={}
 }
 ```
